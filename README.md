@@ -14,21 +14,21 @@
 
 ---
 
-### 🚀 My Goals
-- **JavaScript Deep Dive & CS Fundamentals**
-- **Master a Modern Framework (React or Vue) & TypeScript**
-- **Launch a Personal Project with Real-world Value**
-- **Consistent Learning & Sharing via Tech Blog**
+### 내 목표
+- **자바스크립트 심화 학습 및 CS 기본기 다지기**
+- **최신 프레임워크(React or Vue) 및 타입스크립트 마스터**
+- **실용적인 가치를 지닌 개인 프로젝트 런칭**
+- **기술 블로그를 통한 꾸준한 학습과 지식 공유**
 
 <br/>
 
-### 🌱 My Growth Log
+### 성장 과정
 학습하고 경험한 모든 것을 기록하고 공유합니다.
 - **[Velog Blog 바로가기](https://velog.io/@ktj9266/posts)**
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+### 기술스택 & 도구
 
 **Languages & Markup**
 <p>
